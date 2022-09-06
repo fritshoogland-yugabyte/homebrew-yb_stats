@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class yb_stats < Formula
+class Yb_stats < Formula
   desc "A utility to read all available meta-data that should be present in a standard YugabyteDB cluster"
   homepage "https://github.com/fritshoogland-yugabyte/yb_stats"
   url "https://github.com/fritshoogland-yugabyte/yb_stats/releases/download/v0.8.7/yb_stats.tar.gz"
