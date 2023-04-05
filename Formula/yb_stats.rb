@@ -4,9 +4,9 @@
 class YbStats < Formula
   desc "A utility to read all available meta-data that should be present in a standard YugabyteDB cluster"
   homepage "https://github.com/fritshoogland-yugabyte/yb_stats"
-  url "https://github.com/fritshoogland-yugabyte/yb_stats/releases/download/v0.9.7/yb_stats-osx-intel-v0.9.7-1.tar.gz"
-  sha256 "1f96946f3e3f32cd577186da333e6c123d23d4a76959e9e2977052a28e763361"
-  version "v0.9.7"
+  url "https://github.com/fritshoogland-yugabyte/yb_stats/releases/download/v0.9.8/yb_stats-osx-intel-v0.9.8-1.tar.gz"
+  sha256 "3547987406a7935430c131beca0a4b3a8de835392949b34be857a1d4566b7494"
+  version "v0.9.8"
 
   def install
     bin.install "yb_stats"
